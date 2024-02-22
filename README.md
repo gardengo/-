@@ -1,6 +1,6 @@
 # 노래 해방 🎵
 
-![homePage](/uploads/82b358dc3a816ca1cf7360edab0021e2/homePage.png)
+![homePage](https://github.com/gardengo/NoraeHaebang/assets/48192100/0815e019-d11f-4902-b5b2-e3226e055221)
 
 <br />
 
@@ -83,7 +83,7 @@
 
 ## 링크
 
-[![logo1-removebg-preview](/uploads/62539bb6b1639ad6fda02617b81db772/logo1-removebg-preview.png)](https://i10a705.p.ssafy.io/)
+![logo1-removebg-preview](https://github.com/gardengo/NoraeHaebang/assets/48192100/e1ddce26-0dd6-4587-8f86-d9b0cba00e77)
 
 [![Notion](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/d3b9636405c8451499659f8d8b4ba876)
 
@@ -180,80 +180,82 @@
 
 <h3><< 노래방 만들기 >><h3>
 
-![방만들기](/uploads/252045b2c262008fcc819592730c5e4e/방만들기.gif)
+![방만들기](https://github.com/gardengo/NoraeHaebang/assets/48192100/36f45218-6396-49a0-8015-e7ca27a5e24f)
 
 <br />
 <br />
 
 <h3><< 노래방 입력설정 >><h3>
 
-![입력설정](/uploads/75ab66006646f525ceea73307cf24d16/입력설정.gif)
+![입력설정](https://github.com/gardengo/NoraeHaebang/assets/48192100/1a58d7bb-888d-4144-92e2-a2a039a87e81)
 
 <br />
 <br />
 
 <h3><< 노래방 노래예약 >><h3>
 
-![노래_예약](/uploads/31e1368a53bc5683af3ff418a26a30e7/노래_예약.gif)
+![노래 예약](https://github.com/gardengo/NoraeHaebang/assets/48192100/906da7f0-876c-4c4b-a521-904b9161b93e)
 
 <br />
 <br />
 
 <h3><< 노래방 채팅 >><h3>
 
-![노래방_채팅_기능](/uploads/16d184a9c4001a7a4ac4c1ac74b7d336/노래방_채팅_기능.gif)
+![노래방 채팅 기능](https://github.com/gardengo/NoraeHaebang/assets/48192100/fec65fb6-0028-4754-a275-6a0d48b4b8fc)
 
 <br />
 <br />
 
 <h3><< 노래방 일반 모드 >><h3>
 
-![전체_노래방](/uploads/66185a3047b5624351a02682cf6db95a/전체_노래방.gif)
+![전체 노래방](https://github.com/gardengo/NoraeHaebang/assets/48192100/4e437b48-2184-4330-80e9-4a9f8d29bb9b)
 
 <br />
 <br />
 
 <h3><< 노래방 퍼펙트 스코어 >><h3>
 
-<img src="/uploads/c4848e29b911cff24a9dc0d92759c570/perfect-score.png" width="800" height="400">
+![perfect-score](https://github.com/gardengo/NoraeHaebang/assets/48192100/f873604a-31d9-434f-a687-a89648e132e5)
 
 <br />
 <br />
-
-
 
 <h3><< 피드리스트 및 피드 상세 >><h3>
 
-![피드_기능](/uploads/03378246ff12bb438886ef40d4c854af/피드_기능.gif)
+![피드 기능](https://github.com/gardengo/NoraeHaebang/assets/48192100/2cad4c57-e81a-4d30-921d-030a202792c5)
 <br />
 <br />
 
 <h3><< 피드 업로드 >><h3>
 
-![피드_업로드](/uploads/31d8ac38fa55abcbd461db9eadfafc56/피드_업로드.gif)
-
+![피드 업로드](https://github.com/gardengo/NoraeHaebang/assets/48192100/9d8e4aef-fb88-4ed7-a435-15e9f827feb7)
 
 <br />
 <br />
 
 <h3><< 채팅 >><h3>
 
-![채팅_기능](/uploads/c07fac176fabeb2fe6fc3ef930604902/채팅_기능.gif)
+![채팅 기능](https://github.com/gardengo/NoraeHaebang/assets/48192100/c2606096-2505-4b01-8ec1-4cdea88afaca)
 
 <br />
 <br />
-
 
 <h3><< 친구 목록 >><h3>
 
-![친구목록](/uploads/02e693754b4e9f5218e64a01ecac9333/친구목록.gif)
+![친구목록](https://github.com/gardengo/NoraeHaebang/assets/48192100/9af3d791-dfe0-41af-a10f-7788f5e292a9)
 
 <br />
 <br />
 
 # 아키넥처 구성도
 
-![a705.drawio](/uploads/2f07ef3d0808a1239f11647ffaeb4f9a/a705.drawio.png)
+![a705 drawio](https://github.com/gardengo/NoraeHaebang/assets/48192100/6c002904-b3ca-4f77-a8ad-25687002b587)
+
+<br />
+
+# ERD
+
+![ERD](https://github.com/gardengo/NoraeHaebang/assets/48192100/ea75efad-58c5-49a1-9c24-bc553d868e56)
 
 <br />
 
@@ -1526,11 +1528,12 @@ Feed CRUD를 구현하였습니다. <br>
 
 ### UserFeedPage
 
-개인 유저들의 사용자 정보와 피드가 보이는 페이지를 구현하였습니다. 전체 친구 수, 좋아요 수, 댓글 수를 계산하여 화면에 출력되게 하였습니다. 
-피드는 Amazon s3에 업로드된 영상을 업로드하였습니다. 
+개인 유저들의 사용자 정보와 피드가 보이는 페이지를 구현하였습니다. 전체 친구 수, 좋아요 수, 댓글 수를 계산하여 화면에 출력되게 하였습니다.
+피드는 Amazon s3에 업로드된 영상을 업로드하였습니다.
 
 ### FeedUploadModal
 
-영상 녹화 후 피드를 업로드 및 수정할 수 있는 모달을 Quasar를 사용하여 생성하였습니다. 모달의 영상과, 게시글 내용, 공개 범위를 설정하여 업로드할 수 있습니다. 
+영상 녹화 후 피드를 업로드 및 수정할 수 있는 모달을 Quasar를 사용하여 생성하였습니다. 모달의 영상과, 게시글 내용, 공개 범위를 설정하여 업로드할 수 있습니다.
+
 </div>
 </details>
