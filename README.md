@@ -61,7 +61,7 @@
         </td>
         </td>
         <td align="center">
-            <a href="#openvidu">OpenVidu</a>
+            <a href="#-openvidu-">OpenVidu</a>
         </td>
         <td align="center">
             <a href ="#%ed%94%bc%eb%93%9c-%eb%b0%8f-%ec%82%ac%ec%9a%a9%ec%9e%90-%ec%83%81%ed%98%b8%ec%9e%91%ec%9a%a9">피드 및 사용자 상호작용</a>
@@ -106,48 +106,60 @@
 
 ## Back-end
 
+<div>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 <img src="https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
 <img src="https://img.shields.io/badge/JPA-000000?style=for-the-badge&logo=jpa&logoColor=white"/>
 <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white"/>
+</div>
 
 ## Front-end
 
+<div>
 <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/>
 <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
 <img src="https://img.shields.io/badge/Quasar-16B7FB?style=for-the-badge&logo=Quasar&logoColor=white"/>
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/pinia-F3F781.svg?style=for-the-badge">
 <img alt="Static Badge" src="https://img.shields.io/badge/axios-FF00FF.svg?style=for-the-badge&logo=axios&logoColor=black">
+</div>
 
 ## DB
 
+<div>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
 <img src="https://img.shields.io/badge/amazons3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
+</div>
 
 ## Dev-Ops
 
+<div>
 <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
 <img src="https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
 <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
 <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+</div>
 
 ## 협업Tools
 
+<div>
 <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
 <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 <img src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
+</div>
 
 ## ETC
 
+<div>
 <img src="https://img.shields.io/badge/webrtc-FFE033?style=for-the-badge&logo=webrtc&logoColor=white">
 <img src="https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white">
 <img src="https://img.shields.io/badge/elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white">
 <img src="https://img.shields.io/badge/logstash-005571?style=for-the-badge&logo=logstash&logoColor=white">
 <img src="https://img.shields.io/badge/kibana-005571?style=for-the-badge&logo=kibana&logoColor=white">
+</div>
 
 <br />
 
@@ -989,7 +1001,7 @@ int userPk = userService.getUserPk(UUID.fromString(uuid));
 <summary> <h2> OpenVidu </h2> </summary>
 <div markdown="1">
 
-<img src="https://lab.ssafy.com/s10-webmobile1-sub2/S10P12A705/uploads/d3aba65d32a825af084d40eb56ad8e18/openvidu-workflow-server.png" width="500" height="500"/>
+![openvidu-workflow-server](https://github.com/gardengo/NoraeHaebang/assets/48192100/a2d3e592-bcdf-4934-a07d-f42f5c2496b7)
 
 ### Application Client
 
